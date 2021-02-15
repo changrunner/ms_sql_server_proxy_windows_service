@@ -1,0 +1,8 @@
+.idea/*
+/build/*
+/dist/*
+*.egg-info
+*.lock
+__pycache__
+*.spec
+/Pipfile.lock
